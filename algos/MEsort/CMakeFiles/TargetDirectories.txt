@@ -1,0 +1,5 @@
+/home/vboxuser/src/algos/MEsort/CMakeFiles/test-database.dir
+/home/vboxuser/src/algos/MEsort/CMakeFiles/submission.dir
+/home/vboxuser/src/algos/MEsort/CMakeFiles/test.dir
+/home/vboxuser/src/algos/MEsort/CMakeFiles/edit_cache.dir
+/home/vboxuser/src/algos/MEsort/CMakeFiles/rebuild_cache.dir
