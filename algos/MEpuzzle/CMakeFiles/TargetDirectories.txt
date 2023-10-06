@@ -1,0 +1,6 @@
+/home/vboxuser/src/algos/MEpuzzle/CMakeFiles/test-frontier-queue.dir
+/home/vboxuser/src/algos/MEpuzzle/CMakeFiles/test-solver.dir
+/home/vboxuser/src/algos/MEpuzzle/CMakeFiles/submission.dir
+/home/vboxuser/src/algos/MEpuzzle/CMakeFiles/test.dir
+/home/vboxuser/src/algos/MEpuzzle/CMakeFiles/edit_cache.dir
+/home/vboxuser/src/algos/MEpuzzle/CMakeFiles/rebuild_cache.dir
